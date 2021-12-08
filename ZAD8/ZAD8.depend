@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1638984819 source:c:\users\oskar\onedrive\pulpit\lab5\zad8\main.c
+1639006716 source:c:\users\oskar\onedrive\pulpit\lab5\zad8\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 
